@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 350px;
+    background: url(../images/header.jpg) bottom no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: 	#ffffff;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
